@@ -1,3 +1,3 @@
 # amongE.CFG
 
-add launch option to launch that cfg. you gotta place the cfg in your cfg folder. 
+copy the content of a cfg and paste it in your autoexec.
