@@ -1,4 +1,4 @@
-# amongE.CFG
+# FUNNY BINDS 
 
 copy the content of a cfg and paste it in your autoexec. also change the bound key to the key of your liking.
 
